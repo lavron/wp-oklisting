@@ -1,9 +1,10 @@
+## Upd 2023: the plugin is no more in use. I replaced WordPress with Django.
+
 # OkListing
 
 WordPress plugin: directory of wellness-professionals.
 
 ## In action 
-## Upd 2023: the plugin is no more in us. I replaced WordPress with Django.
 
 This plugin was developed as a part of [okclarity.com](https://okclarity.com/) website development process. 
 
